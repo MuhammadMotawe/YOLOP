@@ -3,10 +3,10 @@ yacs
 Cython
 matplotlib>=3.2.2
 numpy>=1.18.5
+scipy>=1.4.1
 opencv-python>=4.1.2
 Pillow
 PyYAML>=5.3
-scipy>=1.4.1
 tensorboardX
 seaborn
 prefetch_generator
